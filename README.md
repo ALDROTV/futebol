@@ -34,6 +34,6 @@ Classificação. <p/>
  AVAÍ           25
  ATLÉTICO-GO    22
  JUVENTUDE      18 <p/> **
- ![this is an a image]
+ ![This is an image]
  (https://images.app.goo.gl/Dp2whgrhzJ1C8f48A)
 
