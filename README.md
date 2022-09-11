@@ -35,5 +35,5 @@ Classificação. <p/>
  ATLÉTICO-GO    22
  JUVENTUDE      18 <p/> **
  ![This is an image]
- (https://images.app.goo.gl/Dp2whgrhzJ1C8f48A)
+ (https://images.app.goo.gl/Dp2whgrhzJ1C8f48A).
 
