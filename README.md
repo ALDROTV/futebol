@@ -13,7 +13,7 @@ participando das séries A, B, C é D. (profissional)
 <p> Sendo a série A a com os melhores 20 times do 
 Brasil, agora na rodada 26 essa é a tabela de 
 Classificação. <p/>
-<p> ** TIME       |PONTOS 
+<p>  TIME       |PONTOS 
  PALMEIRAS      54
  INTERNACIONAL  46
  FLAMENGO       45
@@ -33,7 +33,7 @@ Classificação. <p/>
  CUIABÁ         26
  AVAÍ           25
  ATLÉTICO-GO    22
- JUVENTUDE      18 <p/> **
- ![This is an image]
- (https://images.app.goo.gl/Dp2whgrhzJ1C8f48A).
+ JUVENTUDE      18 <p/> 
+ **![This is an image]
+ (https://images.app.goo.gl/Dp2whgrhzJ1C8f48A).**
 
