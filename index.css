@@ -3,6 +3,12 @@ background: #ffa600;
 
 }
 
+.brasileirão{
+    width: 300px;
+margin-left: 40%;
+border: solid 5px black;
+}
+
 h1 {
     color: black;
     text-align: center;
@@ -20,3 +26,4 @@ h2 {
 h3 {
     color: black;
 }
+
